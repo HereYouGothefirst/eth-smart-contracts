@@ -1,5 +1,6 @@
 pragma solidity ^0.4.18;
 
+We made prototype splitting ownership of small RC robotics car between 5 people.
 contract HereYouGoDonkeyCar {
   
   address public carSigner;
